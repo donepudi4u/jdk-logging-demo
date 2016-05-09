@@ -1,0 +1,10 @@
+May 06, 2016 2:56:42 AM com.myjavapapers.logging.JDKLoggingDemo main
+INFO: JDKLoggingDemo Start
+May 06, 2016 2:56:42 AM com.myjavapapers.logging.JDKLoggingDemo main
+INFO: JDKLoggingDemo Completed
+May 06, 2016 2:56:42 AM com.myjavapapers.logging.dao.LoggingDao printLogginfDao1
+INFO: printLogginfDao1
+May 06, 2016 2:56:42 AM com.myjavapapers.logging.dao.LoggingDao printLogginfDao4
+INFO: printLogginfDao4
+May 06, 2016 2:56:42 AM com.myjavapapers.logging.dao.LoggingDao printLogginfDao7
+INFO: printLogginfDao7
